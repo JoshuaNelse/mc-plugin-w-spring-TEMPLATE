@@ -1,0 +1,9 @@
+name: hello-plugin
+main: com.tcc.mchelloworld.McHelloWorldApplication
+version: 0.0.1
+author: josh
+api-version: 1.19
+
+commands:
+  hello:
+
